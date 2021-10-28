@@ -31,11 +31,16 @@ npm run dev
 
 ### .env file format
 
-PORT=5000.
-NODE_ENV=development.
-MONGO_URI=(Mongo db connection link from mongo atlas / any other db / firestore).
-JWT_SECRET=ekarttwetrw4.
-PAYPAL_CLIENT_ID=(paypal payment client id to enable paypal buttons on checkout).
+A. PORT=5000.
+
+B. NODE_ENV=development.
+
+C. MONGO_URI=(Mongo db connection link from mongo atlas / any other db / firestore).
+
+D. JWT_SECRET=ekarttwetrw4.
+
+E. PAYPAL_CLIENT_ID=(paypal payment client id to enable paypal buttons on checkout).
+
 
 ## Live demo 
 
