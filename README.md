@@ -3,6 +3,18 @@
 
 Mern stack E-commerce application.
 
+### Install dependencies
+
+✔️ Server :
+
+npm install
+
+✔️ Client :
+
+cd client
+
+npm install
+
 ### Run Server
 
 npm run server 
