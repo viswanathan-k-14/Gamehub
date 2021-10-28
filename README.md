@@ -29,6 +29,14 @@ npm start
 
 npm run dev
 
+### .env file format
+
+PORT=5000.
+NODE_ENV=development.
+MONGO_URI=(Mongo db connection link from mongo atlas / any other db / firestore).
+JWT_SECRET=ekarttwetrw4.
+PAYPAL_CLIENT_ID=(paypal payment client id to enable paypal buttons on checkout).
+
 ## Live demo 
 
 https://gamehubstore.herokuapp.com/
