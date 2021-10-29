@@ -50,6 +50,12 @@ https://gamehubstore.herokuapp.com/
 
 https://documenter.getpostman.com/view/14070563/UV5f6DLH#f461c54d-c438-40db-9971-180c174e50d5
 
+## Login as admin
+
+admin@example.com
+
+12345
+
 
 
 
